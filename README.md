@@ -1,5 +1,5 @@
 # ALM-IRRBB
-## Obiettivo
+## Obiettivo (in progress..)
 Costruire un mini-motore IRRBB (Interest Rate Risk in the Banking Book) che, dato una curva dei tassi e un portafoglio, calcola:
 
 a. *ΔNII* (12 mesi): variazione del margine di interesse annuale quando i tassi si muovono.
@@ -31,7 +31,7 @@ Include controlli di qualità dati e una dashboard per visualizzare risultati e 
 
 - Steepener/Flattener: curva più ripida (lunghi su, corti giù) / più piatta (lunghi giù, corti su).
 
-## Strumenti (free)
+## Strumenti da utilizzare (free)
 
 - Python: linguaggio principale.
 
